@@ -30,6 +30,6 @@ setup(
         'holoviews',
         'jupyter',
         'am_utils @ git+https://github.com/amedyukhina/am_utils.git',
-        'intake_io @ git+https://github.com/bhoeckendorf/intake_io.git@v0.0.2',
+        'intake_io @ git+https://github.com/alypham16/intake_io.git',
     ],
 )
